@@ -33,8 +33,9 @@ article {
 
 .top-img #logo {
     position: absolute;
-    top: 5px;
-    left: 5px;
+    top: 100px;
+    left: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 
